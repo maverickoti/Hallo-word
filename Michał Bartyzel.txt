@@ -8,7 +8,7 @@ Event storming - sluzy do ekxploracji problemu
 Na githubie michala jest event storming
 
 
-Diagramy stanów, klas, sekwencji
+Diagramy stanÃ³w, klas, sekwencji
 
 story point
 
@@ -19,3 +19,8 @@ Adam Dimitriuk
 program embeded - nie tworzymy historyjek uzytkownika
 
 UseCase - uzywa Michal, gdzie robie sie system krytyczny. 
+-----------------------
+d
+gdf
+g
+dfg
