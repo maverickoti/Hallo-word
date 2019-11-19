@@ -1,0 +1,21 @@
+1. Tworzenie mapy interesariuszy.
+
+Styl i scoring
+	
+
+Event Storming -> wynik -> backlog
+Event storming - sluzy do ekxploracji problemu
+Na githubie michala jest event storming
+
+
+Diagramy stanów, klas, sekwencji
+
+story point
+
+getkanban
+
+Adam Dimitriuk
+
+program embeded - nie tworzymy historyjek uzytkownika
+
+UseCase - uzywa Michal, gdzie robie sie system krytyczny. 
